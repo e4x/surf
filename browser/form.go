@@ -1,7 +1,7 @@
 package browser
 
 import (
-	"github.com/PuerkitoBio/goquery"
+	"github.com/e4x/goquery"
 	"github.com/headzoo/surf/errors"
 	"net/url"
 	"strings"
