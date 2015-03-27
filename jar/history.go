@@ -1,7 +1,7 @@
 package jar
 
 import (
-	"github.com/PuerkitoBio/goquery"
+	"github.com/e4x/goquery"
 	"net/http"
 )
 
