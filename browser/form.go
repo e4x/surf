@@ -2,7 +2,7 @@ package browser
 
 import (
 	"github.com/e4x/goquery"
-	"github.com/headzoo/surf/errors"
+	"github.com/e4x/surf/errors"
 	"net/url"
 	"strings"
 )
