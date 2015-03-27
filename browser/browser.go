@@ -2,9 +2,9 @@ package browser
 
 import (
 	"bytes"
-	"github.com/PuerkitoBio/goquery"
-	"github.com/headzoo/surf/errors"
-	"github.com/headzoo/surf/jar"
+	"github.com/e4x/goquery"
+	"github.com/e4x/surf/errors"
+	"github.com/e4x/surf/jar"
 	"io"
 	"mime/multipart"
 	"net/http"
